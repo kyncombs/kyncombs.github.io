@@ -9,12 +9,12 @@ Hi, I’m **Kyndall**, a Marketing Data Analyst with a background in retail mana
 ---
 
 ## Featured Projects
-### 1. [SQL Project-coming soon]
+### 1. SQL Project-coming soon
 
 
-### 2. [Capstone Project-coming soon]
+### 2. Capstone Project-coming soon
 
-### 3. [Excel Project]
+### 3. Excel Project-coming soon
 
 
 ---
