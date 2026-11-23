@@ -2,9 +2,9 @@
 ## About Me
 Hi, I’m **Kyndall**, a Marketing Data Analyst with a background in retail management and customer success. I specialize in uncovering customer behavior trends, optimizing campaign performance, and building clear visual reports that drive business decisions.
 
-* 🔗www.linkedin.com/in/kyndall-combs-448941230 (https://linkedin.com)
+* 🔗[www.linkedin.com/in/kyndall-combs-448941230](https://linkedin.com)
 * 📊 [Tableau Public](https://tableau.com)
-* 📧 kyn.combs@gmail.com (mailto:your.email@example.com)
+* 📧 [kyn.combs@gmail.com](mailto:your.email@example.com)
 
 ---
 
