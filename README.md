@@ -1,4 +1,3 @@
-
 ## About Me
 Hi, I’m **Kyndall**, a Marketing Data Analyst with a background in retail management and customer success. I specialize in uncovering customer behavior trends, optimizing campaign performance, and building clear visual reports that drive business decisions.
 
